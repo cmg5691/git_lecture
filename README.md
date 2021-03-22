@@ -1,2 +1,6 @@
 # git_lecture
-# Lee KyoungRo
+
+Lee KyoungRo
+KuGunmo
+Choi Mingyu
+
